@@ -64,7 +64,7 @@ weather-forecast-app/
 
 ---
 
-## 🧪 Sample CSV Format
+## Sample CSV Format
 
 ```csv
 name,latitude,longitude
@@ -75,7 +75,7 @@ Tokyo,35.6895,139.6917
 
 ---
 
-## 🧐 What I Learned
+## What I Learned
 
 * Integrating public APIs into web apps
 * Working with CSV data using PapaParse
